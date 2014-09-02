@@ -1,2 +1,5 @@
 <?php
-class Test{}
+class Test{
+
+	public $ip=Null;
+}
